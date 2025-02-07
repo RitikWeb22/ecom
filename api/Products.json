@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "name": "Laptop",
+        "category": "Computers",
+        "brand": "ExampleBrand",
+        "price": 69990.99,
+        "actual_price": 1099.99,
+        "stock": 50,
+        "description": "Powerful laptop with a quad-core i5 processor, 8GB RAM, 256GB SSD, and a 14-inch FHD display.",
+        "image": "../src/assets/laptop.png"
+    },
+    {
+        "id": 2,
+        "name": "Smartphone",
+        "category": "Electronics",
+        "brand": "ExampleBrand",
+        "price": 17000.99,
+        "actual_price": 799.99,
+        "stock": 100,
+        "description": "A sleek smartphone with a 6.5-inch OLED display, 128GB storage, and a 48MP camera.",
+        "image": "../src/assets/phone.png"
+    },
+    {
+        "id": 3,
+        "name": "Wireless Headphones",
+        "category": "Audio",
+        "brand": "ExampleBrand",
+        "price": 1990.99,
+        "actual_price": 249.99,
+        "stock": 75,
+        "description": "Noise-canceling wireless headphones with 30-hour battery life and deep bass sound.",
+        "image": "../src/assets/headphone.png"
+    },
+    {
+        "id": 4,
+        "name": "Gaming Monitor",
+        "category": "Computers",
+        "brand": "ExampleBrand",
+        "price": 34500.00,
+        "actual_price": 399.99,
+        "stock": 40,
+        "description": "27-inch QHD gaming monitor with 165Hz refresh rate, 1ms response time, and HDR support.",
+        "image": "../src/assets/monitor.png"
+    },
+    {
+        "id": 5,
+        "name": "Mechanical Keyboard",
+        "category": "Accessories",
+        "brand": "ExampleBrand",
+        "price": 800.99,
+        "actual_price": 149.99,
+        "stock": 60,
+        "description": "RGB mechanical keyboard with hot-swappable switches and customizable macros.",
+        "image": "../src/assets/keyboard.png"
+    },
+    {
+        "id": 6,
+        "name": "Smartwatch",
+        "category": "Wearables",
+        "brand": "ExampleBrand",
+        "price": 1230.99,
+        "actual_price": 299.99,
+        "stock": 90,
+        "description": "Feature-packed smartwatch with heart rate tracking, GPS, and a 7-day battery life.",
+        "image": "../src/assets/smartwatch.png"
+    }
+]
